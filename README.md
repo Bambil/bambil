@@ -10,10 +10,22 @@ they can provide their applications of Bambil platform.
 
 Bambil aims at reducing the specialization that is required to create IoT 
 applications. Currently IoT applications require lots of specializtion from
-hardware engineers to software engineers to DevOps. We are responsible for the
-cloud! Don't worry :) We'll take the responsibility of cloud and the task of
+hardware engineers to software engineers to DevOps. Our aim is to make the
+only concern of hardware engineers who are designing IoT products be making
+accurate sensors and good actuators not how they should connect it to the 
+internet or etc. We'll take the responsibility of cloud and the task of
 creating an IoT application becomes as simple as developing an android 
 application!
+
+We'll serve your IoT applications you don't have to even worry about scaling
+runtime and etc. Another purpose of this platform is to maximize the use
+of IoT infrastructure and help independent application developers develop 
+applications for current IoT infrastructure of a house or building or 
+an orginization.
+
+Another thing we're thinking of is to get community to develop IoT 
+applications. So they can get their applications to the market as easy as 
+an android developer gets it to the market.
 
 ## Stay tuned
 
