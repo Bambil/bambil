@@ -4,7 +4,7 @@ Bambil is the first IoT application center ever. Bambil provides not only
 services for those who are going to develop IoT based solutions but also Bambil
 is trying to provide a set of standards for different emerging IoT platforms 
 so that they will provide a set of APIs that are compatible with Bambil so
-they can provide their applications of Bambil platform.
+they can provide their applications on Bambil platform.
 
 ## Bambil Bambil :+1:
 
