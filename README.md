@@ -1,5 +1,5 @@
 # Bambil 
-![Alt text](logo.svg)
+![Bambil Logo](logo.png)
 
 
 Bambil is the first IoT application center ever. Bambil provides not only
